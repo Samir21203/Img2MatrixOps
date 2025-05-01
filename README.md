@@ -255,7 +255,7 @@ Para problemas, dúvidas ou sugestões, entre em contato:
 
 ## Licença
 
-Licença MIT
+Licença [MIT](https://github.com/Samir21203/Img2MatrixOps/blob/main/LICENSE)
 
 Copyright (c) 2025 Victor Samir Ribeiro dos Anjos
 
