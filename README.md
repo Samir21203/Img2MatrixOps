@@ -4,7 +4,7 @@
 
 **Img2Matrix** é uma aplicação Python que converte imagens (PNG, JPG, BMP, PBM) em matrizes de pixels RGB e aplica transformações geométricas através de uma interface gráfica. Os usuários podem carregar uma imagem e aplicar várias transformações como rotação e espelhamento.
 
-![Captura de Tela do Img2Matrix]("./Screenshot.png")
+![Captura de Tela do Img2Matrix]("https://github.com/Samir21203/Img2MatrixOps/blob/main/Screenshot.png")
 
 ## Informações do Projeto
 
